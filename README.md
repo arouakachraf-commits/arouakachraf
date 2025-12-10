@@ -1,38 +1,58 @@
 <div align="center">
+  <h1>Hi, I'm Achraf AR 👋</h1>
+  <p><em>💻 Beginner Web Developer | Learning & Building Every Day</em></p>
 
-<pre>
- █████╗  ██████╗ ██╗  ██╗██████╗  █████╗ ███████╗███████╗
-██╔══██╗██╔═══██╗██║ ██╔╝██╔══██╗██╔══██╗██╔════╝██╔════╝
-███████║██║   ██║█████╔╝ ██████╔╝███████║█████╗  ███████╗
-██╔══██║██║   ██║██╔═██╗ ██╔══██╗██╔══██║██╔══╝  ╚════██║
-██║  ██║╚██████╔╝██║  ██╗██║  ██║██║  ██║███████╗███████║
-╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝
-</pre>
-
-<h2>Hey, I'm Achraf AR 👋</h2>
-<em>Casual Web Developer | Learning the old-school way 💾</em>
-
-<img src="https://komarev.com/ghpvc/?username=arouakachraf&color=green" />
-
+  <img src="https://github.githubassets.com/images/mona-whisper.gif" height="30" />
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=arouakachraf&color=brightgreen" />
+  </p>
 </div>
 
 ---
 
-## 🧙‍♂️ About Me
+## 🚀 About Me
 
-I’m **Achraf**, a beginner web developer who loves:
-- the retro computer vibe  
-- building cool stuff from scratch  
-- learning by breaking things 😁  
+I'm **Achraf**, a beginner **web developer** passionate about creating clean and functional websites.  
+I'm currently learning **HTML, CSS, JavaScript**, and exploring frameworks to become a full-stack developer.
 
-Right now I'm on my path to mastering:
-- **HTML / CSS**
-- **JavaScript**
-- **Git & GitHub**
+🌱 **Currently learning:**  
+- Front-end development  
+- JavaScript  
+- Git & GitHub
 
-⚡ *Dream:* Build clean, fast, cool websites like the early web legends but with modern powers.
+🎯 **Goal:**  
+Become a professional full-stack developer and build real-world projects.
 
 ---
 
-## 🛠️ Tech Stack (Old-School Mode)
+## 🛠️ Technologies & Tools
+
+- **Frontend:** HTML, CSS, JavaScript  
+- **Tools:** VS Code, Git, GitHub  
+- **Learning:** React, Node.js (soon)
+
+---
+
+## 📂 Projects
+
+Here are some projects I'm working on (or planning to build):
+
+- 📝 Personal portfolio  
+- 🌐 Simple landing page  
+- 🎮 Mini JavaScript games  
+- 📚 Learning exercises
+
+---
+
+## 📫 Contact Me
+
+- **GitHub:** [github.com/arouakachraf](https://github.com/arouakachraf)  
+- **Email:** *add your email here (optional)*  
+
+---
+
+<div align="center">
+  🚀 *Thanks for visiting my profile!*  
+</div>
 
