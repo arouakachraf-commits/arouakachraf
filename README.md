@@ -48,7 +48,7 @@ Here are some projects I'm working on (or planning to build):
 ## 📫 Contact Me
 
 - **GitHub:** [github.com/arouakachraf](https://github.com/arouakachraf)  
-- **Email:** *add your email here (optional)*  
+- **Email:** arouakachraf@gmail.com  
 
 ---
 
